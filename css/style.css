@@ -1,0 +1,9 @@
+:root {
+    fondo: #CED4DA;
+}
+
+* {
+    margin: 0 auto;
+
+    background-color: var(fondo);
+}
